@@ -1,0 +1,17 @@
+D:\123\Проекты\Pets\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.exe
+D:\123\Проекты\Pets\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.deps.json
+D:\123\Проекты\Pets\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.runtimeconfig.json
+D:\123\Проекты\Pets\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.runtimeconfig.dev.json
+D:\123\Проекты\Pets\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.dll
+D:\123\Проекты\Pets\ConsoleCalculator\bin\Debug\netcoreapp3.1\ConsoleCalculator.pdb
+D:\123\Проекты\Pets\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.csproj.AssemblyReference.cache
+D:\123\Проекты\Pets\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\123\Проекты\Pets\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.AssemblyInfoInputs.cache
+D:\123\Проекты\Pets\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.AssemblyInfo.cs
+D:\123\Проекты\Pets\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.csproj.CoreCompileInputs.cache
+D:\123\Проекты\Pets\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.csproj.CopyComplete
+D:\123\Проекты\Pets\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.dll
+D:\123\Проекты\Pets\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.pdb
+D:\123\Проекты\Pets\ConsoleCalculator\obj\Debug\netcoreapp3.1\ConsoleCalculator.genruntimeconfig.cache
+D:\123\Проекты\Pets\ConsoleCalculator\bin\Debug\netcoreapp3.1\CalculatorCore.dll
+D:\123\Проекты\Pets\ConsoleCalculator\bin\Debug\netcoreapp3.1\CalculatorCore.pdb

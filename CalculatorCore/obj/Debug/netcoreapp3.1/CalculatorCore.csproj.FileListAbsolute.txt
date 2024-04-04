@@ -11,7 +11,6 @@ D:\123\Проекты\Pets\Calculator.Core\obj\Debug\netcoreapp3.1\CalculatorCor
 D:\123\Проекты\Pets\CalculatorCore\bin\Debug\netcoreapp3.1\CalculatorCore.deps.json
 D:\123\Проекты\Pets\CalculatorCore\bin\Debug\netcoreapp3.1\CalculatorCore.dll
 D:\123\Проекты\Pets\CalculatorCore\bin\Debug\netcoreapp3.1\CalculatorCore.pdb
-D:\123\Проекты\Pets\CalculatorCore\obj\Debug\netcoreapp3.1\CalculatorCore.csproj.AssemblyReference.cache
 D:\123\Проекты\Pets\CalculatorCore\obj\Debug\netcoreapp3.1\CalculatorCore.GeneratedMSBuildEditorConfig.editorconfig
 D:\123\Проекты\Pets\CalculatorCore\obj\Debug\netcoreapp3.1\CalculatorCore.AssemblyInfoInputs.cache
 D:\123\Проекты\Pets\CalculatorCore\obj\Debug\netcoreapp3.1\CalculatorCore.AssemblyInfo.cs
